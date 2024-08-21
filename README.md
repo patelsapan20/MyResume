@@ -8,7 +8,8 @@ https://github.com/patelsapan20
 ## SUMMARY
 
 Dedicated and skilled software engineer with work experience in web development, database management, architecture, and development of business solutions utilizing Java, cyber security, data modeling, and data transformation with Agile and Waterfall methodologies.
-EDUCATION
+
+## EDUCATION
 
 Bachelor of Science in Computer Science and Engineering	
 The Ohio State University, Columbus, OH, 08/2022- 12/2024.  
