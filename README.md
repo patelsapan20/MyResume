@@ -2,7 +2,7 @@
 
 Sapan Patel
 614-634-4045 | sapan0728@gmail.com
-linkedin.com/in/sapan-patel-281796265/
+linkedin.com/in/sapan-patel-281796265/ 
 https://github.com/patelsapan20 
 
 ## SUMMARY
